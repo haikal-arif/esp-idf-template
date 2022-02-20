@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"\".h\"": "\"cpp\"",
+		"freertos.h": "c",
+		"freertosconfig.h": "c",
+		"assert.h": "c",
+		"stdint.h": "c",
+		"stdlib.h": "c",
+		"types.h": "c",
+		"endian.h": "c"
+	}
+}
